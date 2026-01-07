@@ -77,7 +77,7 @@ if st.sidebar.button("Train Model Now"):
             st.session_state['y_test'] = y_test
             st.sidebar.success(f"Training Complete! Accuracy: {accuracy:.2%}")
 
-st.header(" Threat Analysis Dashboard")
+st.header("3.Threat Analysis Dashboard")
 
 if 'model' in st.session_state:
     col1, col2 = st.columns(2)
