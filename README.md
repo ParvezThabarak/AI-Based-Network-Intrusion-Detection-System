@@ -1,4 +1,4 @@
-# 🛡️ AI-Based Network Intrusion Detection System (Student Project)
+# 🛡️ AI-Based Network Intrusion Detection System
 
 This project implements an **AI-Based Network Intrusion Detection System (NIDS)** using **Machine Learning (Random Forest)** and **Generative AI (Groq LLM)**.  
 It is developed as an **academic student project** to demonstrate how artificial intelligence can be applied to **cybersecurity threat detection and analysis**.
